@@ -15,7 +15,7 @@ Feel free to explore my work below or connect with me on LinkedIn!
 
 | Project | Description | Stack |
 |---|---|---|
-| [Incident Triage CLI](https://github.com/rfisch26/json-parsing) | CLI tool for filtering, sorting, and reassigning security incidents from JSON data | TypeScript |
+| [Incident Triage CLI](https://github.com/rfisch26/incident-triage-cli) | CLI tool for filtering, sorting, and reassigning security incidents from JSON data | TypeScript |
 | [Custom Linux Shell](https://github.com/rfisch26/customLinuxShell) | A Unix shell built from scratch in C++ with process management and child process handling | C++ |
 | [Weather App](https://github.com/rfisch26/weatherApp) | 5-day weather forecast app with location search and REST API integration | PHP · JavaScript · HTML · CSS |
 | [Elevator Algorithm](https://github.com/rfisch26/elevatorAlgorithm) | Simulation of an elevator scheduling algorithm | Java |
